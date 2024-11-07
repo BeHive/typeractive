@@ -85,7 +85,7 @@
 // |         |         |         |         |         |         |           |         |         |         |         |         |         |
 //                                    |  CTRL   |   LWR   |   BSPC   | |   SPC   |   RSE   |   ALT
                         bindings = <
-    &trans     &to 1     &to 2     &trans    &trans    &trans                &trans      &trans  &trans      &trans      &trans  &trans
+    &trans     &to 0     &to 1     &trans    &trans    &trans                &trans      &trans  &trans      &trans      &trans  &trans
     &trans     &trans    &trans    &trans    &trans    &trans                &trans      &trans  &trans      &trans      &trans  &trans
     &trans     &trans    &trans    &trans    &trans    &trans                &bt BT_CLR  &trans  &bt BT_PRV  &bt BT_NXT  &trans  &trans
                                        &trans    &trans    &trans        &trans    &trans    &trans
